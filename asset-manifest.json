@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-MyFilmList/static/css/main.947e92d1.css",
+    "main.js": "/MERN-MyFilmList/static/js/main.e427b163.js",
+    "index.html": "/MERN-MyFilmList/index.html",
+    "main.947e92d1.css.map": "/MERN-MyFilmList/static/css/main.947e92d1.css.map",
+    "main.e427b163.js.map": "/MERN-MyFilmList/static/js/main.e427b163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947e92d1.css",
+    "static/js/main.e427b163.js"
+  ]
+}
